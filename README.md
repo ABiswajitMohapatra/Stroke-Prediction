@@ -32,10 +32,7 @@ This project aims to predict the likelihood of a person having a stroke using va
 ## ✅ Results
 Achieved high prediction performance (accuracy and ROC-AUC) with Random Forest/XGBoost, making it effective for early stroke risk screening.
 
-## 📂 How to Run
-1. Clone the repo: `git clone https://github.com/yourusername/stroke-prediction-model.git`
-2. Navigate to the project folder.
-3. Run the Jupyter Notebook or Python script to train and test the model.
+
 
 ---
 Created with ❤️ for health risk prediction.
